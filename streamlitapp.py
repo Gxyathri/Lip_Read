@@ -1,3 +1,4 @@
+pip install imageio
 import streamlit as st
 import os
 import tempfile
